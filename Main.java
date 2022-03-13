@@ -9,7 +9,6 @@ public class Main {
         liczba1 = pobierz.nextInt();
 				System.out.println("Wpisz drugą liczbę:");
         liczba2 = pobierz.nextInt();
-        int ans;
         System.out.println("Wybierz operacje:\n 1 - Dodawanie \n 2 - Odejmowanie \n 3 - Mnożenie \n 4 - Dzielenie");
         int wybierz;
         wybierz = pobierz.nextInt();
