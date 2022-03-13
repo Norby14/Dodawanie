@@ -15,16 +15,16 @@ public class Main {
         wybierz = pobierz.nextInt();
         switch (wybierz){
         case 1:
-            System.out.println(dodawanie( liczba1,liczba2));
+            System.out.println("Wynik = "+dodawanie( liczba1,liczba2));
             break;
         case 2:
-            System.out.println(odejmowanie( liczba1,liczba2));
+            System.out.println("Wynik = "+odejmowanie( liczba1,liczba2));
             break;      
         case 3:
-            System.out.println(mnozenie( liczba1,liczba2));
+            System.out.println("Wynik = "+mnozenie( liczba1,liczba2));
             break;
         case 4:
-            System.out.println(dzielenie( liczba1,liczba2));
+            System.out.println("Wynik = "+dzielenie( liczba1,liczba2));
             break;
             default:
                 System.out.println("Błąd wybierz poprawnie");
