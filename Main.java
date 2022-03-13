@@ -27,7 +27,7 @@ public class Main {
             System.out.println(dzielenie( liczba1,liczba2));
             break;
             default:
-                System.out.println("Illigal Operation");
+                System.out.println("Błąd wybierz poprawnie");
 
 
         }
