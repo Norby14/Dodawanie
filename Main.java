@@ -49,9 +49,9 @@ public class Main {
         int wynik = x*y;
         return wynik;
     }
-    public static int dzielenie(int x, int y)
+    public static double dzielenie(double x, double y)
     {
-        int wynik = x/y;
+        double wynik = x/y;
         return wynik;
     }
 
